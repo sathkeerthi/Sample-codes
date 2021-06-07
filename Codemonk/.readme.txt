@@ -1,0 +1,5 @@
+In this folder, you will find solutions to Hackerearth's Codemonk problems.
+The subtopics are made as different folders and cpp files are uploaded of respective problems, for easy location.
+Btw I don't even know that I would stay committed to do this, since I normally slack off after some time. 
+Lets see if I can make myself to complete this Codemonk folder of this repository.. That would mark the beginning of my Github journey.
+Peace!
