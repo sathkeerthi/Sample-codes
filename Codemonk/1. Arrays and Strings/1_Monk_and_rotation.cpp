@@ -13,7 +13,7 @@ int main()
         int arr[n];
         for (int j = 0; j < n; j++)
             cin >> arr[j];
-        k %= n; // since even if k is greater than n, the rotation is limited to n + (k-n)
+        k %= n; // since even if k is greater than n, the rotation is limited by n
         for (int i = 0; i<n ; i++){
             int p = arr[(i+(n-k))%n];
 			cout << p << " ";
